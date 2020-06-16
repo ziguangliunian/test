@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4616"],{"3b1b":function(t,e,r){"use strict";r.r(e);var n=function(){var t=this,e=t.$createElement,r=t._self._c||e;return r("div",[t._v(" 订单列表页面 "),r("el-button",{attrs:{type:"primary"},on:{click:t.go}},[t._v("新增")])],1)},o=[],u={name:"orderList",methods:{go:function(){this.$router.push({path:"/order/add",query:{path:this.$route.path}})}}},a=u,s=r("2877"),c=Object(s["a"])(a,n,o,!1,null,"9be09692",null);e["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0c4616.cf296401.js.map
